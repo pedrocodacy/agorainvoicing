@@ -1,0 +1,8 @@
+exclude_paths:
+  - 'vendor/**'
+  - 'public/bower_components/**'
+  - 'public/bootstrap/**'
+  - 'public/cart/vendor/**'
+  - 'public/dist/**'
+  - 'public/plugins/**'
+  - 'public/vendor/**'
